@@ -1,2 +1,4 @@
-# orchestration-service
-Demo notebook for running a machine learning pipeline using SAP's Orchestration Service
+# Orchestration Service
+Demo notebook for running a machine learning pipeline using SAP AI Core's Orchestration Service
+
+Prerequisite: AI Core subscription
